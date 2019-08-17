@@ -23,7 +23,7 @@ https://bit.ly/2MpfvSO
 - Your team can use any resource (this includes but is not limited to: Software, API, Frameworks, Open Source Code, etc.)
 - You can build whatever you want! (App, Website, Game, etc.)
 - Your product should adhere to the theme
-- We are only looking for an MVP (minimum viable product) You just need something you presentable at the end. We are not expecting you to build the next Facebook within the short amount of time given. 
+- We are only looking for an MVP (minimum viable product) You just need something presentable at the end. We are not expecting you to build the next Facebook within the short amount of time given. 
 - Have fun! We know that this event has a competitive element to it, however we encourage everyone to enjoy the experience and the environment. This room has a wide variety of professionals, undergraduate students, graduate students, high school students, self taugh coders, and more. We hope that the atmosphere we've created for you produces a sense of mentorship in the room where individual can learn from one another. 
 
 # Event Schedule
