@@ -28,51 +28,51 @@ https://bit.ly/2MpfvSO
 
 # Event Schedule
 9:00	Check In <br/>
-9:15	Keynote
-9:30	Competition Begins
-9:45	
-10:00	Bootstrap Website Workshop (optional*)
-10:15	
-10:30	
-10:45	
-11:00	
-11:15	
-11:30	End of Bootstrap Website Workshop
-11:45	
-12:00	Lunch
-12:15	
-12:30	
-12:45	
-1:00 We will begin registering teams
-1:15	
-1:30	
-1:45	
-2:00	Building Twitter Using Node.js and MongoDB (optional*)
-2:15	
-2:30	
-2:45	
-3:00	
-3:15	
-3:30	
-3:45	
-4:00	
-4:15	
-4:30	End of Twitter Workshop
-4:45	
-5:00	
-5:15	
-5:30	
-5:45	
-6:00	Dinner
-6:15	
-6:30	Submissions Will Open - Go to https://hackiloilo.devpost.com/ to submit (Please enter the names of all the members in your group)
-6:45	
-7:00	Project Submissions Due - We will no longer accept submissions after 7:00 PM
-7:15	Presentations - 3 Minutes per group
-7:30	
-7:45	
-8:00	
-8:15	
-8:30	Judging
-8:45	Closing Statements/ Winners will be announced
-9:00	End of the Event
+9:15	Keynote <br/>
+9:30	Competition Begins <br/>
+9:45	<br/>
+10:00	Bootstrap Website Workshop (optional*) <br/>
+10:15	<br/>
+10:30	<br/>
+10:45	<br/>
+11:00	<br/>
+11:15	<br/>
+11:30	End of Bootstrap Website Workshop <br/>
+11:45	<br/>
+12:00	Lunch <br/>
+12:15	<br/>
+12:30	<br/>
+12:45	<br/>
+1:00 We will begin registering teams <br/>
+1:15	<br/>
+1:30	<br/>
+1:45	<br/>
+2:00	Building Twitter Using Node.js and MongoDB (optional*) <br/>
+2:15	<br/>
+2:30	<br/>
+2:45	<br/>
+3:00	<br/>
+3:15	<br/>
+3:30	<br/>
+3:45	<br/>
+4:00	<br/>
+4:15	<br/>
+4:30	End of Twitter Workshop <br/>
+4:45	<br/>
+5:00	<br/>
+5:15	<br/>
+5:30	<br/>
+5:45	<br/>
+6:00	Dinner <br/>
+6:15	<br/>
+6:30	Submissions Will Open - Go to https://hackiloilo.devpost.com/ to submit (Please enter the names of all the members in your group) <br/>
+6:45	<br/> 
+7:00	Project Submissions Due - We will no longer accept submissions after 7:00 PM <br/>
+7:15	Presentations - 3 Minutes per group <br/>
+7:30	<br/>
+7:45	<br/>
+8:00	<br/>
+8:15	<br/>
+8:30	Judging <br/>
+8:45	Closing Statements/ Winners will be announced <br/>
+9:00	End of the Event <br/>
