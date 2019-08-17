@@ -5,9 +5,9 @@ This repository will have all of the links to documents regarding Hack Iloilo 20
 How can we leverage technology to improve education in the Philippines?
 
 # Prize
-1st Place - 25,000 php
-2nd Place - 15,000 php
-3rd Place - 10,000 php
+1st Place - 25,000 php <br/>
+2nd Place - 15,000 php <br/>
+3rd Place - 10,000 php <br/>
 
 # Event Website
 https://hackiloilo.com/
