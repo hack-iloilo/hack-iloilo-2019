@@ -27,7 +27,7 @@ https://bit.ly/2MpfvSO
 - Have fun! We know that this event has a competitive element to it, however we encourage everyone to enjoy the experience and the environment. This room has a wide variety of professionals, undergraduate students, graduate students, high school students, self taugh coders, and more. We hope that the atmosphere we've created for you produces a sense of mentorship in the room where individual can learn from one another. 
 
 # Event Schedule
-9:00	Check In
+9:00	Check In <br/>
 9:15	Keynote
 9:30	Competition Begins
 9:45	
