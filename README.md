@@ -47,7 +47,7 @@ https://bit.ly/2MpfvSO
 1:15	<br/>
 1:30	<br/>
 1:45	<br/>
-2:00	//Building Twitter Using Node.js and MongoDB (optional*) <br/>
+2:00	<!--Building Twitter Using Node.js and MongoDB (optional*)--> <br/>
 2:15	<br/>
 2:30	<br/>
 2:45	<br/>
@@ -57,7 +57,7 @@ https://bit.ly/2MpfvSO
 3:45	<br/>
 4:00	<br/>
 4:15	<br/>
-4:30	//End of Twitter Workshop <br/>
+4:30	<!--End of Twitter Workshop--> <br/>
 4:45	<br/>
 5:00	<br/>
 5:15	<br/>
